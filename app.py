@@ -5,8 +5,8 @@ st.set_page_config(page_title="AYBU Final Notu Hesaplama", page_icon="🎓", lay
 
 # BAŞLIK
 st.markdown("""
-    <h1 style='text-align: center; color: navy;'>🎓 AYBU Final Notu Hesaplama Uygulaması</h1>
-    <h4 style='text-align: center;'>Develoved by Dolphin • From AYBU MIS</h4>
+    <h1 style='text-align: center; color: navy;'>🎓 AYBU Final Notu Hesaplama Programı</h1>
+    
     <hr>
 """, unsafe_allow_html=True)
 
