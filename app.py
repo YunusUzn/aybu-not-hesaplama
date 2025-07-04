@@ -69,7 +69,7 @@ if st.button("✅ Notu Hesapla"):
         st.markdown(f"""
             <div style='background-color:#e6f7ff; padding:20px; border-radius:10px; text-align:center;'>
                 <h2 style='color:green;'>🎯 Toplam Puan: {round(yannot, 2)}</h2>
-                <h3 style='color:red;'>📌 Geçmek için Finalden Alman Gereken Minimum Not: {round(final, 2)}</h3>
+                <h3 style='color:red;'>📌 Kuru Geçmek için Finalden Alman Gereken Minimum Not: {round(final, 2)}</h3>
             </div>
         """, unsafe_allow_html=True)
 
