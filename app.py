@@ -73,4 +73,4 @@ if st.button("✅ Notu Hesapla"):
             </div>
         """, unsafe_allow_html=True)
 
-        st.markdown("<p style='text-align: center; font-size: 12px;'>Developed by Yunus from AYBU MIS 😉</p>", unsafe_allow_html=True)
+        st.markdown("<p style='text-align: center; font-size: 12px;'>Developed by Dolphin Long from AYBU MIS 😉</p>", unsafe_allow_html=True)
