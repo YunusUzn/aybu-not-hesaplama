@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Sayfa Ayarı
-st.set_page_config(page_title="AYBU Final Notu Hesaplama", page_icon="🎓", layout="centered")
+st.set_page_config(page_title="AYBU Kur Geçme Notu Hesaplama", page_icon="🎓", layout="centered")
 
 # BAŞLIK
 st.markdown("""
